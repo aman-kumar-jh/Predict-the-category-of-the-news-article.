@@ -14,7 +14,7 @@ The four classification model:\
 3-> Random Forest\
 4-> Decision Tree
 
-We will also try to increse the accurcay of the model by using the k-fold validation technique.
+We will also try to increse the accurcay of the model by using the k-fold validation technique and find best term co-related to each label using chi squared test.
 
 ## Getting Started
 
